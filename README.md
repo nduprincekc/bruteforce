@@ -5,6 +5,8 @@ Intro
 This is a code for a simple  **Bruteforce** made in python 
 with help of the **random** module and **Pyautogui** library  
 
+This project will help you to know how password hacking is being done with python
+
 
 How to run 
 ---------
