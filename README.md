@@ -19,6 +19,7 @@ $-> cd code
 Output
 --------
 
+![image](https://user-images.githubusercontent.com/9885341/153766835-1e45ea6e-2e99-402a-b7e5-ac043b707b13.png)
 
 Give it a star :tada:
 --------------
